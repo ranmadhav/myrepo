@@ -1,0 +1,14 @@
+1. GITHUB ACCOUNT
+2. EMPTY REPO
+3. local system pe 
+	git config --global user.name""
+	git config --global user.email""
+ek aur chz ki wha se copy krk url
+4. git push krne k liye 
+	git push -u origin master
+5. yha may be authentication aaye 
+mere case mai to popup username and password k sath 
+one more option ki commandline mai aaye enter krne k liye 
+or the 3rd one ki:
+settings -> password -> developer setting
+->personal access token -> tokken classics -> create new tokken -> tick all -> and create !
